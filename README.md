@@ -14,5 +14,3 @@ An Excel project focused on analyzing customer churn patterns and understanding 
 - Identify factors related to customer retention.
 - Present key insights through visualizations.
 
-## Files
-Project files and dashboard visuals will be added here.
